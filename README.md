@@ -111,12 +111,6 @@ dotnet ef database update
 ```bash
 dotnet run
 ```
-
-A API estará disponível em:
-
-* [http://localhost:5000](http://localhost:5000)
-* [https://localhost:5001](https://localhost:5001)
-
 ---
 
 ## Rotas da API
