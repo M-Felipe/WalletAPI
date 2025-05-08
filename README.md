@@ -59,7 +59,7 @@ A API utiliza autenticação JWT e armazena os dados em um banco de dados MySQL.
 
 ## Observações
 * A migration esta configurada para criar as tabelas necessárias.
-* Optei por usar o MySQL por a ter instalado em minha maquina.
+* Optei por usar o MySQL por ja ter instalado em minha maquina.
 
 
 ## Configuração Inicial
